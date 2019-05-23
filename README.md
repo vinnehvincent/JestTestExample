@@ -1,2 +1,0 @@
-# JestTestExample
-Created with CodeSandbox
